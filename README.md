@@ -1,2 +1,2 @@
 # calculadora_imc
- Calculadora de imc, projeto de estudo.
+ Calculadora de Imc, projeto de estudos
