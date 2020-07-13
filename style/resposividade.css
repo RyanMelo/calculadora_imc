@@ -1,0 +1,58 @@
+@media (max-width: 1024px) {
+    .input-infos {
+        width: 350px;
+        height: 550px;
+    
+        position: absolute;
+        left: 500px;
+        top: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .input-infos {
+        width: 300px;
+        height: 550px;
+    
+        position: absolute;
+        left: 400px;
+        top: 20px;
+    
+    }
+}
+
+@media (max-width: 414px) {
+    .input-infos {
+        width: 325px;
+        height: 550px;
+
+        position: relative;
+        left: 0px;
+        /* top: 20px; */
+    }
+}
+
+@media (max-width: 360px) {
+    .input-infos {
+        width: 300px;
+        height: 550px;
+    
+        position: relative;
+        left: 0px;
+        /* top: 20px; */
+    }
+
+    .main-title h1 {
+    
+        font-weight: bold;
+        font-size: 120px;
+    
+        margin-left: -10px
+    }
+    
+    .main-title p {
+        font-weight: 40;
+        font-size: 24px;
+    }
+}
+
